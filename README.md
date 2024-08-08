@@ -1,4 +1,4 @@
-Supply Chain Management Project using Blockchain - RUSHABH GUNJAL
+Supply Chain Management Project using Blockchain 
 
 As part of an advanced project, I developed a Supply Chain Management system leveraging blockchain technology to enhance transparency, security, and efficiency in tracking goods from origin to destination. Key aspects of the project included:
 
